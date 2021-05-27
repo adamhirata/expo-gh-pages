@@ -2,6 +2,7 @@ import { StatusBar } from "expo-status-bar";
 import React, { useEffect, useState } from "react";
 import { Image, StyleSheet, Text, View } from "react-native";
 import * as Font from "expo-font";
+import InfoDisplay from "./modules/InfoDisplay";
 
 export default function MainScreen() {
   //loading the custom Pokemon font
@@ -21,6 +22,7 @@ export default function MainScreen() {
     return (
       <View style={styles.container}>
         <Top />
+        <InfoDisplay />
         <Bottom />
       </View>
     );
@@ -55,14 +57,14 @@ function Top() {
             backgroundColor: "rgba(255, 255, 255, 0.9)",
           }}
         >
-          <Text
+          {/* <Text
             style={{
               fontSize: 32,
               fontWeight: "bold",
             }}
           >
             Adam Hirata
-          </Text>
+          </Text> */}
           <View style={{ width: "100%", alignItems: "center" }}>
             <View
               style={{
@@ -130,10 +132,10 @@ function Bottom() {
 
 const styles = StyleSheet.create({
   top: {
-    height: "50%",
+    height: "40%",
     width: "50%",
     minWidth: 800,
-    minHeight: 361,
+    minHeight: 348,
     borderWidth: 10,
     borderColor: "black",
     borderBottomWidth: 3,
