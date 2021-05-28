@@ -1,23 +1,33 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.ba439413.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.ba439413.chunk.js.map",
+    "app.js": "/expo-gh-pages/static/js/app.c82e6237.chunk.js",
+    "app.js.map": "/expo-gh-pages/static/js/app.c82e6237.chunk.js.map",
     "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
     "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
-    "static/js/2.c93dc1e6.chunk.js": "/expo-gh-pages/static/js/2.c93dc1e6.chunk.js",
-    "static/js/2.c93dc1e6.chunk.js.map": "/expo-gh-pages/static/js/2.c93dc1e6.chunk.js.map",
+    "static/js/2.c4f47b3b.chunk.js": "/expo-gh-pages/static/js/2.c4f47b3b.chunk.js",
+    "static/js/2.c4f47b3b.chunk.js.map": "/expo-gh-pages/static/js/2.c4f47b3b.chunk.js.map",
     "favicon-16.png": "/expo-gh-pages/favicon-16.png",
     "favicon-32.png": "/expo-gh-pages/favicon-32.png",
     "favicon.ico": "/expo-gh-pages/favicon.ico",
     "index.html": "/expo-gh-pages/index.html",
     "manifest.json": "/expo-gh-pages/manifest.json",
     "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.c93dc1e6.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.c93dc1e6.chunk.js.LICENSE.txt",
-    "static/media/battlebackground.png": "/expo-gh-pages/static/media/battlebackground.bc89c0bb.png"
+    "static/js/2.c4f47b3b.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.c4f47b3b.chunk.js.LICENSE.txt",
+    "static/media/battlebackground.png": "/expo-gh-pages/static/media/battlebackground.bc89c0bb.png",
+    "static/media/c.png": "/expo-gh-pages/static/media/c.e130116c.png",
+    "static/media/cpp.png": "/expo-gh-pages/static/media/cpp.0a81196c.png",
+    "static/media/java.png": "/expo-gh-pages/static/media/java.6f7d8603.png",
+    "static/media/javascript.png": "/expo-gh-pages/static/media/javascript.31c7416c.png",
+    "static/media/jest.png": "/expo-gh-pages/static/media/jest.809768de.png",
+    "static/media/junit.png": "/expo-gh-pages/static/media/junit.a064065d.png",
+    "static/media/matlab.png": "/expo-gh-pages/static/media/matlab.b0ba5ee8.png",
+    "static/media/opengl.png": "/expo-gh-pages/static/media/opengl.9224c44d.png",
+    "static/media/python.png": "/expo-gh-pages/static/media/python.f22d1fce.png",
+    "static/media/react.png": "/expo-gh-pages/static/media/react.73ac128a.png"
   },
   "entrypoints": [
     "static/js/runtime~app.57d3d678.js",
-    "static/js/2.c93dc1e6.chunk.js",
-    "static/js/app.ba439413.chunk.js"
+    "static/js/2.c4f47b3b.chunk.js",
+    "static/js/app.c82e6237.chunk.js"
   ]
 }
